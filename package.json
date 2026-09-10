@@ -1,0 +1,24 @@
+{
+  "name": "recuperacao-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/anapaulacknorich-art/RecuperacaoNode2#readme",
+  "bugs": {
+    "url": "https://github.com/anapaulacknorich-art/RecuperacaoNode2/issues"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/anapaulacknorich-art/RecuperacaoNode2.git"
+  },
+  "license": "ISC",
+  "author": "Ana Paula",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
